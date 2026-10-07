@@ -1,0 +1,7 @@
+{
+  "name": "PixMob_Receiver",
+  "build": {
+    "libArchive": false
+  },
+  "dependencies": {}
+}
